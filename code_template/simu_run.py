@@ -3,7 +3,7 @@ configfile: "./config.yaml"
 samples = ['simu']
 data_loc = '../align/'
 bin_loc = '../bin/'
-c_gap = 200
+c_gap = 250
 
 rule all:
 	input:
